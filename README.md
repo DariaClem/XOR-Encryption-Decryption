@@ -14,3 +14,10 @@ cripta conținutul fișierului.
 ### Metodă de rulare:
 - python3 encript.py parola input.txt output
 - python3 decrypt.py output parola input_recuperat.txt
+
+# Partea a doua a proiectului
+### Echipa noastră: Cei _ sqrt(9) _ musafiri
+### Echipa adversă: UTF-8 abuser ( https://github.com/EricMorosan/ProiectASC1 )
+### Parolă: ASC_vrem_nota_10
+- Prima cerință: Am xorat fiecare caracter din fisierul input.txt cu fiecare caracter din fisierul output și am obținut parola (Un impediment în aflarea parolei a constat în depășirea numărului de caractere maxim de către echipa adversă). Ne-am folosit de un program în python bazat pe ideea enunțată anterior prin care am determinat direct cheia folosită.
+- A doua cerință: A doua parte a proiectului nu a putut fi rezolvată din cauza faptului că textul din input.txt a fost ales greșit. În cerință se menționa faptul că textul trebuie să fie unul din literatură clasică, nu un șir de numere. 
