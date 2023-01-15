@@ -1,24 +1,22 @@
-# ProiectASC :computer:
-**Cerință proiect**: Scrieți scripturi python encrypt.py / decrypt.py care iau ca parametru în linia de comandă o cheie și un
-fișier și realizează criptarea/decriptarea XOR folosind cheia dată. Programul va folosi cheia pentru a
-cripta conținutul fișierului.
+# Computer system architecture :computer:
+**Assignment**: Write 2 python scripts encrypt.py / decrypt.py that take as parameter in command line a key and a file and XOR encrypt/decrypt using that key. The program will use the key to encrypt the content of the file. 
 
-# Membrii echipei :standing_woman: :standing_person: :standing_woman:
+# Team members: :standing_woman: :standing_person: :standing_woman:
 **Grupa 134**:
 - Mîndrescu Andreea-Miruna :turtle:
 - Maftei Valentin-Vasile :snake:
 - Clem Daria-Ștefana :hedgehog:
 
-# Cum se uitilizează
-### Versiune: Python 3.9.9 :alien:
-### Metodă de rulare:
-- python3 encript.py parola input.txt output
-- python3 decrypt.py output parola input_recuperat.txt
+# How to use
+### Version: Python 3.9.9 :alien:
+### Running program:
+- python3 encript.py password input.txt output
+- python3 decrypt.py output password input_recuperat.txt
 
-# Partea a doua a proiectului
-### Echipa noastră: Cei _ sqrt(9) _ musafiri
-### Echipa adversă: UTF-8 abuser ( https://github.com/EricMorosan/ProiectASC1 )
-### Parolă: ASC_vrem_nota_10
-- Prima cerință: Am xorat fiecare caracter dintr-o secvență din fișierul input.txt cu fiecare caracter dintr-o secvență din fișierul output și am obținut parola (Un impediment în aflarea parolei a constat în depășirea numărului de caractere maxim de către echipa adversă). Cele două secvențe selectate sunt de la începutul celor 2 texte și sunt de lungimi egale. Ne-am folosit de un program în python (parola.py) bazat pe ideea enunțată anterior prin care am determinat direct cheia folosită.
-- A doua cerință: A doua parte a proiectului nu a putut fi rezolvată din cauza faptului că textul din input.txt a fost ales greșit. În cerință se menționa faptul că textul trebuie să fie unul din literatură clasică, nu un șir de numere. 
+# Second part of the project
+### Our team: Cei _ sqrt(9) _ musafiri
+### The opposing team: UTF-8 abuser ( https://github.com/EricMorosan/ProiectASC1 )
+### Password: ASC_vrem_nota_10
+- First project requirment: We XORed every character from a sequence from input.txt file with every character from a sequence from output file and we found out the password (An impediment in finding out the password was the fact that the other team exceeded the word limit). Both selected sequences were the same length and were selected from the begining of the files. We found out the key using parola.py, a script based on the previously stated idea. 
+- Second project requirment: The second part of the project could not be solved because the text from input.txt was wrongly chosen. The text must be one from classical literature, not a sequence of numbers. 
 
