@@ -2,7 +2,7 @@
 **Assignment**: Write 2 python scripts encrypt.py / decrypt.py that take as parameter in command line a key and a file and XOR encrypt/decrypt using that key. The program will use the key to encrypt the content of the file. 
 
 # Team members: :standing_woman: :standing_person: :standing_woman:
-**Grupa 134**:
+**Group 134**:
 - Mîndrescu Andreea-Miruna :turtle:
 - Maftei Valentin-Vasile :snake:
 - Clem Daria-Ștefana :hedgehog:
