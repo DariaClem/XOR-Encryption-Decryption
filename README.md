@@ -5,7 +5,7 @@
 # Team members: :standing_woman: :standing_person: :standing_woman:
 **Group 134**:
 - Mîndrescu Andreea-Miruna :turtle:
-- Maftei Valentin-Vasile :snake:
+- Maftei Valentin-Vasile (https://github.com/ValentinMaftei) :snake:
 - Clem Daria-Ștefana :hedgehog:
 
 # How to use
