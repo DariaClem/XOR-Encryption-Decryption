@@ -10,9 +10,10 @@
 # How to use
 ### Version: Python 3.9.9 :alien:
 ### Running program:
-- python3 encript.py password input.txt output
-- python3 decrypt.py output password input_recuperat.txt
-
+``` 
+python3 encript.py password input.txt output
+python3 decrypt.py output password input_recuperat.txt
+```
 # Second part of the project
 ### Our team: Cei _ sqrt(9) _ musafiri
 ### The opposing team: UTF-8 abuser ( https://github.com/EricMorosan/ProiectASC1 )
