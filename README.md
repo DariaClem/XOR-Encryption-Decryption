@@ -19,6 +19,6 @@ python3 decrypt.py output password input_recuperat.txt
 ### Our team: Cei _ sqrt(9) _ musafiri
 ### The opposing team: UTF-8 abuser ( https://github.com/EricMorosan/ProiectASC1 )
 ### Password: ASC_vrem_nota_10
-- First project requirment: We XORed every character from a sequence from input.txt file with every character from a sequence from output file and we found out the password (An impediment in finding out the password was the fact that the other team exceeded the word limit). Both selected sequences were the same length and were selected from the begining of the files. We found out the key using parola.py, a script based on the previously stated idea. 
-- Second project requirment: The second part of the project could not be solved because the text from input.txt was wrongly chosen. The text must be one from classical literature, not a sequence of numbers. 
+- First project requirement: We XORed every character from a sequence in the input.txt file with every character from a sequence in the output file to find the password. However, we encountered a difficulty in finding the password as the other team exceeded the word limit. Both selected sequences were of the same length and were chosen from the beginning of the files. We used parola.py, a script based on this idea, to find the key.
+- Second project requirment: The second part of the project could not be completed because the text from input.txt was not appropriate. It should have been a text from classical literature, not a sequence of numbers.
 
